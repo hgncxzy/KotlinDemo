@@ -7,7 +7,7 @@
 - [类与构造函数](https://www.jianshu.com/p/bdec4828d7ca)
 - [成员变量与get/set方法](https://www.jianshu.com/p/ba3869f16389)
 - [类型体系与空安全](https://www.jianshu.com/p/d55881a9380e)
-- 循环和条件控制
+- [循环和条件控制](https://www.jianshu.com/p/1667609e7e5b)
 - [静态成员与伴生对象](https://www.jianshu.com/p/ac0c25091491)
 - [数据类data与单例类object](https://www.jianshu.com/p/26cf0631b5bd)
 - [扩展函数](https://www.jianshu.com/p/84f7877d3079)
@@ -34,3 +34,8 @@
 - Anko
 - KTX
 - [协程](https://www.jianshu.com/p/84cc26da7c6d)
+
+### 参考 
+
+1. https://www.jianshu.com/p/7ca933dfba8d
+2. https://www.jianshu.com/p/1667609e7e5b
