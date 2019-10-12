@@ -37,7 +37,8 @@
 
 ### 教程
 
-
+1. [Kotlin 实战](https://github.com/hgncxzy/KotlinDemo/tree/master/docs)
+2. [我的 Kotlin 笔记](https://github.com/hgncxzy/AndroidNote/blob/master/note/Kotlin.md)
 
 ### 参考 
 
