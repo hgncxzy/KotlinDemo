@@ -10,4 +10,18 @@ object StringDemo {
             """
         print(s)
     }
+
+    fun testNull() {
+        var a = ""
+        if (a.isEmpty()) {
+            print("a,我是空的")
+        }
+        a?.let {
+            print("a,我进来了")
+        }
+        var b = null
+        b?.let {
+            print("b,我进来啦")
+        }
+    }
 }

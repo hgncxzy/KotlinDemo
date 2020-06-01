@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         StringDemo.test1()
+        StringDemo.testNull()
         ArrayDemo.test1()
         print("1. print ")
         print("2. print")
@@ -22,10 +23,10 @@ class MainActivity : AppCompatActivity() {
         val user = User()
         user.age = 29
         user.name = "xzy"
-        Sp.put("userList", this, arrayListOf(user))
-        val userList = Sp.get("userList", this)
-        for (user1 in userList) {
-            Log.i("xzy", user1.toString())
-        }
+//        Sp.put("userList", this, arrayListOf(user))
+//        val userList = Sp.get("userList", this)
+//        for (user1 in userList) {
+//            Log.i("xzy", user1.toString())
+//        }
     }
 }
