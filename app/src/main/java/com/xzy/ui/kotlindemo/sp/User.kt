@@ -9,5 +9,23 @@ class User {
                 "age=" + age +
                 ", name='" + name + '\''.toString() +
                 '}'.toString()
+
     }
+}
+
+fun `showTest`(text:String){
+
+}
+
+fun showTest2(){
+
+}
+
+//fun ` `(){
+//
+//}
+
+fun main() {
+    showTest("11")
+    showTest2()
 }
